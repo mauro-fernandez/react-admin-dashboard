@@ -319,7 +319,7 @@ export const mockTransactions = [
 
 export const mockBarData = [
   {
-    country: "AD",
+    country: "USA",
     "hot dog": 137,
     "hot dogColor": "hsl(229, 70%, 50%)",
     burger: 96,
@@ -328,9 +328,11 @@ export const mockBarData = [
     kebabColor: "hsl(97, 70%, 50%)",
     donut: 140,
     donutColor: "hsl(340, 70%, 50%)",
+    sandwich: 78,
+    fries: 100
   },
   {
-    country: "AE",
+    country: "GREECE",
     "hot dog": 55,
     "hot dogColor": "hsl(307, 70%, 50%)",
     burger: 28,
@@ -339,9 +341,11 @@ export const mockBarData = [
     kebabColor: "hsl(273, 70%, 50%)",
     donut: 29,
     donutColor: "hsl(275, 70%, 50%)",
+    sandwich: 60,
+    fries: 42
   },
   {
-    country: "AF",
+    country: "AUSTRIA",
     "hot dog": 109,
     "hot dogColor": "hsl(72, 70%, 50%)",
     burger: 23,
@@ -350,9 +354,11 @@ export const mockBarData = [
     kebabColor: "hsl(106, 70%, 50%)",
     donut: 152,
     donutColor: "hsl(256, 70%, 50%)",
+    sandwich: 25,
+    fries: 62
   },
   {
-    country: "AG",
+    country: "GERMANY",
     "hot dog": 133,
     "hot dogColor": "hsl(257, 70%, 50%)",
     burger: 52,
@@ -361,20 +367,24 @@ export const mockBarData = [
     kebabColor: "hsl(110, 70%, 50%)",
     donut: 83,
     donutColor: "hsl(9, 70%, 50%)",
+    sandwich: 48,
+    fries: 47
   },
   {
-    country: "AI",
+    country: "ARGENTINA",
     "hot dog": 81,
     "hot dogColor": "hsl(190, 70%, 50%)",
     burger: 80,
     burgerColor: "hsl(325, 70%, 50%)",
-    kebab: 112,
+    kebab: 60,
     kebabColor: "hsl(54, 70%, 50%)",
     donut: 35,
     donutColor: "hsl(285, 70%, 50%)",
+    sandwich: 150,
+    fries: 120
   },
   {
-    country: "AL",
+    country: "IRAK",
     "hot dog": 66,
     "hot dogColor": "hsl(208, 70%, 50%)",
     burger: 111,
@@ -383,9 +393,11 @@ export const mockBarData = [
     kebabColor: "hsl(182, 70%, 50%)",
     donut: 18,
     donutColor: "hsl(76, 70%, 50%)",
+    sandwich: 8,
+    fries: 23
   },
   {
-    country: "AM",
+    country: "TURKEY",
     "hot dog": 80,
     "hot dogColor": "hsl(87, 70%, 50%)",
     burger: 47,
@@ -394,6 +406,8 @@ export const mockBarData = [
     kebabColor: "hsl(224, 70%, 50%)",
     donut: 49,
     donutColor: "hsl(274, 70%, 50%)",
+    sandwich: 19,
+    fries: 12
   },
 ];
 
