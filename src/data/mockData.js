@@ -345,7 +345,7 @@ export const mockBarData = [
     fries: 42
   },
   {
-    country: "AUSTRIA",
+    country: "CHILE",
     "hot dog": 109,
     "hot dogColor": "hsl(72, 70%, 50%)",
     burger: 23,
@@ -358,7 +358,7 @@ export const mockBarData = [
     fries: 62
   },
   {
-    country: "GERMANY",
+    country: "BRASIL",
     "hot dog": 133,
     "hot dogColor": "hsl(257, 70%, 50%)",
     burger: 52,
@@ -371,7 +371,7 @@ export const mockBarData = [
     fries: 47
   },
   {
-    country: "ARGENTINA",
+    country: "ITALY",
     "hot dog": 81,
     "hot dogColor": "hsl(190, 70%, 50%)",
     burger: 80,
